@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Bijou
 
-<!--
-**BijouGlz10/BijouGlz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy QA Engineer en formación con sólida experiencia en atención al usuario, asesoría personalizada y soporte técnico. Actualmente curso un bootcamp en TripleTen enfocado en **Quality Assurance (QA)**, donde he desarrollado habilidades prácticas en:
 
-Here are some ideas to get you started:
+- ✅ Pruebas manuales (funcionales, exploratorias)
+- 🐞 Reporte y seguimiento de bugs
+- 🛠️ Herramientas: Jira, Postman, DevTools, Android Studio, SQL
+- 🔄 Metodologías ágiles (Scrum, Kanban)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi enfoque combina la empatía hacia el usuario con una visión analítica para garantizar productos digitales de calidad.
+
+---
+
+### 🚀 Objetivo profesional
+
+Estoy en búsqueda de mi primer rol en tecnología como **QA Manual Tester**, donde pueda seguir desarrollando mis habilidades, aprender de equipos multidisciplinarios y contribuir a productos centrados en el usuario.
+
+---
+
+### 📫 Conectemos
+
+Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/bijou-gonzález) o escribirme a: **bijou.sgg0@gmail.com**
+
+Gracias por visitar mi perfil
