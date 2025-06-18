@@ -5,7 +5,7 @@ Soy QA Engineer en formación con sólida experiencia en atención al usuario, a
 - ✅ Pruebas manuales (funcionales, exploratorias)
 - 🐞 Reporte y seguimiento de bugs
 - 🛠️ Herramientas: Jira, Postman, DevTools, Android Studio, SQL
-- 🔄 Metodologías ágiles (Scrum, Kanban)
+- 🔄 Metodologías ágiles: Scrum
 
 Mi enfoque combina la empatía hacia el usuario con una visión analítica para garantizar productos digitales de calidad.
 
@@ -26,6 +26,9 @@ A lo largo de mi formación como QA Engineer, he participado en diferentes proye
 - **Abril 2025**: **Urban Routes Web App** - Web Application testing mediante DevTools, UI testing, diseño y ejecución de test cases y reporte de bugs.
 - **Mayo 2025**: **Urban Grocers API** - API testing con Postman, diseño y ejecución de test cases y reporte de bugs.
 - **Junio 2025**: **Urban Lunch App** - Mobile Application testing mediante Android Studio, diseño y ejecución de test cases y reporte de bugs.
+
+Links a proyectos:
+https://drive.google.com/drive/folders/1LXMpTkvLI7YOwQ4hsfkLhmiFpIDwvejg?usp=sharing
 
 ---
 
