@@ -42,6 +42,8 @@ Verifiqué la consistencia de los datos entre las respuestas de la API y la base
 
 **Tecnologías utilizadas:** Postman, REST API Testing, SQL, JSON, Database Validation
 
+---
+
 **Links a proyectos:**
 
 End-to-End Testing: https://drive.google.com/drive/folders/1nT5ovQRhLhqGO4n53es3VNCjmSpxesHh?usp=drive_link
